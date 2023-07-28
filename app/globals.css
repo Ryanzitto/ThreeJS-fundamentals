@@ -15,11 +15,3 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
-
-.custom-bg {
-  background-image: url("https://i.pinimg.com/originals/71/9e/80/719e80760999b4c355a723224120eb07.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  position: static;
-}
